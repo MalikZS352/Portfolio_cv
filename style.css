@@ -201,12 +201,14 @@ footer h3{
     color: #F8F8FF;
     padding-top: 1rem;
 }
-footer section{
+
+.footer{
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: space-around;
 }
+
 .form{
     display: flex;
     flex-direction: column;
@@ -300,7 +302,7 @@ footer{
     height: auto;
 }
 
-footer section{
+.footer{
     flex-direction: column;
     justify-content: center;
 }
